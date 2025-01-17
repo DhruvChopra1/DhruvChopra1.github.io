@@ -1,1 +1,6 @@
-
+---
+title: hello
+date: 2025-01-12 09:17:00 +/-TTTT
+categories: [TOP_CATEGORIE, SUB_CATEGORIE]
+tags: [idk]     # TAG names should always be lowercase
+---
