@@ -9,7 +9,7 @@ tags: [Jekyll, Chirpy, Blogging]
 ---
 # Hello everyone!
 
-My name is Dhruv Chopra, and I am a scholar at Port Credit S.S. This website contains all of my projects, achievements, and certifications.
+## My name is Dhruv Chopra, and I am a scholar at Port Credit S.S. This website contains all of my projects, achievements, and certifications.
 
 > This site is still a work in progress!
 {: .prompt-tip }
