@@ -72,6 +72,7 @@ Assisted in opening, arranging books, and organizing the library for a period in
 - Red Cross Swim Kids (June 2022)
 - Gauss Contest Participation (May 2023)
 - Basic First Aid and Emergency Procedures (July 2023)
+- Grade 9 and 10 waterloo contest
 
 ---
 
