@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Contact me!"
-date: 2025-01-17
+date: 2025-01-20
 categories: [Personal, Development]
 tags: [Jekyll, Chirpy, Blogging]
 ---
